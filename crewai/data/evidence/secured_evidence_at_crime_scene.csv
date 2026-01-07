@@ -1,0 +1,20 @@
+category,item_name,location,condition,notable_attributes,evidentiary_relevance
+murder_weapon,Ornate silver candelabra,On round table near piano,One candle lit; visible blood stains; appears recently handled,Heavy metal; matches single-blow trauma; blood on arms,Primary blunt-force weapon
+victim,Victor (male),Seated at piano bench,Slumped forward; head and shoulder blood visible; no defensive posture,Struck from behind while seated,Confirms attack position and timing
+clue,Torn silk glove (left-hand),On table near candelabra,Fabric torn at fingers; unstained or lightly stained,Elegant material; single glove only,Links to wearer who uses gloves; suggests struggle or haste
+clue,Handwritten note,On table in foreground,Legible; unstained; folded,Text reads “Meet me after dinner. We need to talk about the money.”,Establishes motive and planned meeting
+clue,Blood spatter on piano keys,Piano keyboard and fallboard,Localized splatter; not widespread,Indicates victim was seated and struck once,Supports medical estimate and blow direction
+clue,Cigar stub and ashtray,Side table near piano,Recently extinguished; ash intact,Faint smoke visible in air,Indicates recent presence of smoker
+clue,Red leather handbag,On chair beside piano,Clean surface; prominent color,Matches red dye transfer elsewhere,Associative object to suspect movement
+clue,Blood smear on wall/doorframe,Right side background,Partial smear at hip height,Directional transfer rather than splash,Indicates movement past doorway post-incident
+clue,Footprints (muddy),Floor near table and piano,Distinct impressions; small size,Mud tracked indoors,Implies path from exterior to weapon location
+environment,Music room interior,Entire scene,Low light; warm tones; enclosed space,Sound carries; limited airflow,Supports timing of single audible thud
+environment,Candle smoke and haze,Air near table and piano,Visible smoke layers,Mixed sources (candle + cigar),Helps place individuals temporally
+other_object,Piano bench,In front of piano,Undisturbed; aligned straight,Victim seated normally pre-attack,Contradicts struggle before strike
+other_object,Round wooden table,Center foreground,Blood droplets and smears present,Surface used to place objects,Staging or dumping surface
+officer_note,Scene security perimeter,Entire room,Should be sealed immediately,Prevent contamination,Preserve trace evidence
+officer_note,Gloves worn by officer,Officer handling evidence,Nitrile or latex; clean pair per item,No cross-contamination,Critical for admissibility
+officer_note,Photographic documentation,All items before movement,High-resolution; multiple angles,Include scale markers,Chain-of-custody support
+officer_note,Time log,Upon arrival and processing,Exact timestamps recorded,Matches medical window,Correlates with witness statements
+officer_note,Airborne evidence awareness,Music room airspace,Perfume and smoke present,Note before ventilation,Transient but relevant evidence
+officer_note,Weapon handling protocol,Candelabra,Bagged separately; handle minimally,Blood and prints preserved,Primary forensic priority
